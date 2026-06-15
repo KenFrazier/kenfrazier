@@ -46,5 +46,5 @@ I am learning **Software Engineering**, which requires *sheer grit to master*, a
 **Email**
 [njugunakamaufrazier13@gmail.com]
 **Favorite Quote**
->Satyan nasti paro dharmah
+*Satyan nasti paro dharmah*
 -----------------------------------------------------------------------------------------------------------------------------------
