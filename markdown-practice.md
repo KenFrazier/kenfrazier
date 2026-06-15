@@ -29,9 +29,22 @@ I am learning **Software Engineering**, which requires *sheer grit to master*, a
 - [ ] Complete Python basics
 - [ ] Build my first website
 - [ ] Learn about databases
-# Exercise 7
+## Exercise 7
 ```html
 <h1>Hello, World!</h1>
 ```
-# Exercise 8
-> Music is The best art represantation of World phenomena-oscillating in the balance between Order and Chaos-providing an aspect of both predictability and unpredictability. 
+## Exercise 8
+> Music is The best art represantation of World phenomena-oscillating in the balance between Order and Chaos-providing an aspect of both predictability and unpredictability.
+
+----------------------------------------------------------------------------------------------------------------------------------
+##About Me
+###Personal information
+**Name**
+`Kennedy Kamau`
+**Age**
+`27`
+**Email**
+[njugunakamaufrazier13@gmail.com]
+**Favorite Quote**
+>Satyan nasti paro dharmah
+-----------------------------------------------------------------------------------------------------------------------------------
