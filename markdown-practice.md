@@ -37,8 +37,8 @@ I am learning **Software Engineering**, which requires *sheer grit to master*, a
 > Music is The best art represantation of World phenomena-oscillating in the balance between Order and Chaos-providing an aspect of both predictability and unpredictability.
 
 ----------------------------------------------------------------------------------------------------------------------------------
-##About Me
-###Personal information
+About Me
+Personal information
 **Name**
 `Kennedy Kamau`
 **Age**
