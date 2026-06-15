@@ -43,9 +43,14 @@ I am learning **Software Engineering**, which requires *sheer grit to master*, a
 `Kennedy Kamau`
 
 **Age**
+
 `27`
+
 **Email**
+
 [njugunakamaufrazier13@gmail.com]
+
 **Favorite Quote**
+
 *Satyan nasti paro dharmah*
 -----------------------------------------------------------------------------------------------------------------------------------------
