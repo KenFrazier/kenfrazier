@@ -36,9 +36,7 @@ I am learning **Software Engineering**, which requires *sheer grit to master*, a
 ## Exercise 8
 > Music is The best art represantation of World phenomena-oscillating in the balance between Order and Chaos-providing an aspect of both predictability and unpredictability.
 
-----------------------------------------------------------------------------------------------------------------------------------
-About Me
-Personal information
+##About Me
 **Name**
 `Kennedy Kamau`
 **Age**
@@ -47,4 +45,3 @@ Personal information
 [njugunakamaufrazier13@gmail.com]
 **Favorite Quote**
 *Satyan nasti paro dharmah*
------------------------------------------------------------------------------------------------------------------------------------
