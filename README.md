@@ -10,7 +10,7 @@
 - [ "JavaScript", "HTML/CSS",]
 
 ## Current Projects
-- [Personal Portfolio Website](link) — short description
+- [Personal Portfolio Website](link) — Buiding a portfolio to showcase the technologies I know such as HTML,CSS,JavaScript and Git, network professionally through LinkedIn.com and apply for jobs and internships.
 
 ## How to Reach Me
 - Email: ["njugunakamaufrazier13@gmail.com"]
